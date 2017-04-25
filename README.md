@@ -1,4 +1,4 @@
-# sumulate elm
+# simulate elm
 
 > A Vue.js project
 
